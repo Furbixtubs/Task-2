@@ -8,9 +8,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     padding-top: 50px;
-    background-color: rgb(138, 221, 203);
+    background-color: #a8c2d3;
     padding: 25px;
 }
 img {
